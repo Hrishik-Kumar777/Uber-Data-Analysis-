@@ -22,3 +22,18 @@ The project uses publicly available Uber dataset(s). Data sources and licenses a
 Objective:
 To apply data analysis skills and extract actionable insights from real-world transportation data, showcasing end-to-end workflow in a reproducible and collaborative format.
 
+# Key Performance Indicators (KPIs) - Questions Asked
+
+This project aims to answer the following key questions related to Uber ride bookings:
+
+In which category do people book the most Uber rides?
+
+For which purpose do people book Uber rides the most?
+
+At what time do people book cabs the most from Uber?
+
+In which months do people book Uber rides less frequently?
+
+On which days of the week do people book Uber rides the most?
+
+How many miles do people usually book a cab for through Uber?
