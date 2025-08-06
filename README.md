@@ -26,14 +26,14 @@ To apply data analysis skills and extract actionable insights from real-world tr
 
 This project aims to answer the following key questions related to Uber ride bookings:
 
-In which category do people book the most Uber rides?
+1.In which category do people book the most Uber rides?
 
-For which purpose do people book Uber rides the most?
+2.For which purpose do people book Uber rides the most?
 
-At what time do people book cabs the most from Uber?
+3.At what time do people book cabs the most from Uber?
 
-In which months do people book Uber rides less frequently?
+4.In which months do people book Uber rides less frequently?
 
-On which days of the week do people book Uber rides the most?
+5.On which days of the week do people book Uber rides the most?
 
-How many miles do people usually book a cab for through Uber?
+6.How many miles do people usually book a cab for through Uber?
